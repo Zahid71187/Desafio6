@@ -1,0 +1,26 @@
+[
+  {
+    "autor": "za",
+    "texto": "hola",
+    "fyh": "27/3/2022 17:39:17",
+    "id": 1
+  },
+  {
+    "autor": "Profe",
+    "texto": "que hay",
+    "fyh": "27/3/2022 17:46:20",
+    "id": 2
+  },
+  {
+    "autor": "za",
+    "texto": "Póngame 10 por fa ",
+    "fyh": "27/3/2022 17:46:30",
+    "id": 3
+  },
+  {
+    "autor": "profe",
+    "texto": "jalo",
+    "fyh": "27/3/2022 17:46:44",
+    "id": 4
+  }
+]
